@@ -1,4 +1,3 @@
-<img src="profile-pic.jpg" width="100" align="right">
 
 ### Hi, I'm Saeeda 👋  
 ### Data Analyst | IT Instructor | Applied AI & Cloud Enthusiast
