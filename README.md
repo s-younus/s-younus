@@ -1,8 +1,4 @@
 <img src="profile-pic.jpg" width="100" align="right">
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-Power%20BI-blue)
-![SQL](https://img.shields.io/badge/SQL-Database-green)
-![Python](https://img.shields.io/badge/Python-Data%20Science-yellow)
-![Azure](https://img.shields.io/badge/Azure-AI--900-lightblue)
 
 ### Hi, I'm Saeeda 👋  
 ### Data Analyst | IT Instructor | Applied AI & Cloud Enthusiast
@@ -12,7 +8,6 @@ I am a Data Analyst and IT Instructor with 5+ years of experience delivering dat
 I enjoy turning complex data into clear, actionable insights and helping teams make better decisions through analytics, visualization, and process improvement.
 
 ---
-
 ## 🔍 About Me
 
 - 📊 Experienced in **data analysis, KPI reporting, SQL, Excel, Power BI, and dashboard development**
