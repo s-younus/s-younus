@@ -1,7 +1,8 @@
 <p align="center">
   <img src="profile-pic.jpg" alt="profile pic.jpg" width="180" style="border-radius:50%;" />
 </p>
-# Hi, I'm Saeeda 👋  
+
+### Hi, I'm Saeeda 👋  
 ### Data Analyst | IT Instructor | Applied AI & Cloud Enthusiast
 
 I am a Data Analyst and IT Instructor with 5+ years of experience delivering data-driven insights, technical training, and IT support across academic and industry environments. My background combines data analytics, dashboard development, SQL reporting, systems administration, and technical education.
