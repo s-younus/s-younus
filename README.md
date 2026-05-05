@@ -1,28 +1,5 @@
-<table>
-  <tr>
-    <td width="75%">
-      <h1>Hi, I'm Saeeda 👋</h1>
-      <h3>Data Analyst | IT Instructor | Applied AI & Cloud Enthusiast</h3>
+<img src="profile-pic.jpg" width="100" align="right">
 
-      <p>
-        I am a Data Analyst and IT Instructor with 5+ years of experience delivering
-        data-driven insights, technical training, and IT support across academic and
-        industry environments. My background combines data analytics, dashboard
-        development, SQL reporting, systems administration, and technical education.
-      </p>
-
-      <p>
-        I enjoy turning complex data into clear, actionable insights and helping teams
-        make better decisions through analytics, visualization, and process improvement.
-      </p>
-    </td>
-    <td width="25%" align="right">
-      <img src="profile-pic.jpg" alt="Saeeda profile picture" width="120">
-    </td>
-  </tr>
-</table>
-
----
 
 ### Hi, I'm Saeeda 👋  
 ### Data Analyst | IT Instructor | Applied AI & Cloud Enthusiast
