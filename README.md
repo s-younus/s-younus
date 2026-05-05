@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-pic.jpg" alt="Saeeda profile picture" width="180" style="border-radius:50%;" />
+  <img src="profile-pic.jpg" alt="profile pic.jpg" width="180" style="border-radius:50%;" />
 </p>
 # Hi, I'm Saeeda 👋  
 ### Data Analyst | IT Instructor | Applied AI & Cloud Enthusiast
