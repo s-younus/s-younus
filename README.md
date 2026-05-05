@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="profile-pic.jpg" alt="profile pic.jpg" width="180" style="border-radius:50%;" />
 </p>
 
