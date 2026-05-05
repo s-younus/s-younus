@@ -1,1 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Saeeda | Data Analyst Portfolio</title>
 
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f4f7fb;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    header {
+      background-color: #1f2937;
+      color: white;
+      padding: 50px 10%;
+    }
+
+    .hero {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 30px;
+      flex-wrap: wrap;
+    }
+
+    .hero-text {
+      max-width: 700px;
+    }
+
+    .hero-text h1 {
+      font-size: 42px;
+      margin-bottom: 10px;
+    }
+
+    .hero-text h3 {
+      font-size: 22px;
+      color: #d1d5db;
+      margin-bottom: 20px;
+    }
+
+    .profile-pic {
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 4px solid white;
+    }
+
+    section {
+      max-width: 1000px;
+      margin: 30px auto;
+      background-color: white;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.07);
+    }
+
+    h2 {
+      color: #1f2937;
+      border-bottom: 2px solid #e5e7eb;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+
+    h3 {
+      color: #374151;
+    }
+
+    ul {
+      padding-left: 22px;
+    }
+
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background-color: #f9fafb;
+      padding: 18px;
+      border-radius: 10px;
+      border: 1px solid #e5e7eb;
+    }
+
+    .summary {
+      background-color: #eef6ff;
+      border-left: 5px solid #2563eb;
+    }
+
+    .education-item {
+      margin-bottom: 20px;
+    }
+
+    .contact a {
+      color: #2563eb;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .contact a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      background-color: #1f2937;
+      color: white;
+      padding: 25px;
+      margin-top: 40px;
+    }
+
+    @media (max-width: 700px) {
+      .hero {
+        text-align: center;
+        justify-content: center;
+      }
+
+      .hero-text h1 {
+        font-size: 32px;
+      }
+
+      .hero-text h3 {
+        font-size: 18px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <div class="hero">
+      <div class="hero-text">
+        <h1>Hi, I'm Saeeda 👋</h1>
+        <h3>Data Analyst | IT Instructor | Applied AI & Cloud Enthusiast</h3>
+
+        <p>
+          I am a Data Analyst and IT Instructor with 5+ years of experience delivering
+          data-driven insights, technical training, and IT support across academic and
+          industry environments.
+        </p>
+
+        <p>
+          I enjoy turning complex data into clear, actionable insights and helping teams
+          make better decisions through analytics, visualization, and process improvement.
+        </p>
+      </div>
+
+      <img src="profile-pic.jpg" alt="Saeeda profile picture" class="profile-pic" />
+    </div>
+  </header>
+
+  <section>
+    <h2>🔍 About Me</h2>
+    <ul>
+      <li>Experienced in <strong>data analysis, KPI reporting, SQL, Excel, Power BI, and dashboard development</strong></li>
+      <li>Skilled in <strong>data wrangling, statistical analysis, machine learning fundamentals, computer vision, and NLP</strong></li>
+      <li>Strong background in <strong>Windows Server, Linux administration, networking, and troubleshooting</strong></li>
+      <li>Former Lecturer/Instructor with experience teaching <strong>computer systems, networking, Linux, cybersecurity, Excel, and Power BI</strong></li>
+      <li>Certified in <strong>IBM Data Analytics</strong> and <strong>Microsoft Azure AI-900</strong></li>
+      <li>Currently completing the <strong>Junior Data Analyst Program at NPower Canada</strong></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🛠️ Technical Skills</h2>
+
+    <div class="skills-grid">
+      <div class="card">
+        <h3>Programming & Data Science</h3>
+        <ul>
+          <li>Python</li>
+          <li>C++</li>
+          <li>Pandas</li>
+          <li>NumPy</li>
+          <li>Data Wrangling</li>
+          <li>Statistical Analysis</li>
+          <li>Machine Learning Fundamentals</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>Data Analytics & Visualization</h3>
+        <ul>
+          <li>Power BI</li>
+          <li>IBM Cognos Analytics</li>
+          <li>Microsoft Excel</li>
+          <li>PivotTables</li>
+          <li>Charts</li>
+          <li>Dashboard Development</li>
+          <li>KPI Reporting</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>Databases</h3>
+        <ul>
+          <li>SQL</li>
+          <li>Microsoft Access</li>
+          <li>Oracle</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>Cloud, DevOps & IT Tools</h3>
+        <ul>
+          <li>Microsoft Azure Fundamentals</li>
+          <li>Windows Server 2019</li>
+          <li>Jira</li>
+          <li>Confluence</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>Operating Systems</h3>
+        <ul>
+          <li>Windows 10/11</li>
+          <li>Linux</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="summary">
+    <h2>💼 Professional Summary</h2>
+    <p>
+      Data Analyst and IT Instructor with 5+ years of experience in data analysis,
+      technical training, systems administration, and IT support across academic and
+      industry environments.
+    </p>
+    <p>
+      Skilled in Excel, SQL, Power BI, Primavera, Linux, Windows Server, networking,
+      cybersecurity, and dashboard development, with a strong ability to explain
+      technical concepts clearly and support data-driven decision-making.
+    </p>
+  </section>
+
+  <section>
+    <h2>🎓 Education & Certifications</h2>
+
+    <div class="education-item">
+      <h3>Junior Data Analyst Program</h3>
+      <p><strong>NPower Canada | Toronto, ON</strong></p>
+      <p><em>Expected May 2026</em></p>
+    </div>
+
+    <div class="education-item">
+      <h3>IBM Data Analyst Professional Certificate</h3>
+    </div>
+
+    <div class="education-item">
+      <h3>Microsoft Azure AI-900 Professional Certificate</h3>
+    </div>
+
+    <div class="education-item">
+      <h3>Master of Science in Information Technology</h3>
+      <p><strong>Alagappa University | Bangalore, India</strong></p>
+    </div>
+
+    <div class="education-item">
+      <h3>Bachelor of Business Management – Management Information Systems</h3>
+      <p><strong>Bangalore University | Bangalore, India</strong></p>
+    </div>
+  </section>
+
+  <section>
+    <h2>📌 Featured Interests</h2>
+    <ul>
+      <li>Data Analytics</li>
+      <li>Business Intelligence</li>
+      <li>SQL Reporting</li>
+      <li>Power BI Dashboards</li>
+      <li>Applied AI</li>
+      <li>Cloud Fundamentals</li>
+      <li>Linux & Windows Server Administration</li>
+      <li>IT Training and Mentorship</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>✨ GitHub Focus</h2>
+    <p>I use GitHub to showcase projects related to:</p>
+    <ul>
+      <li>Data cleaning and analysis</li>
+      <li>SQL queries and database projects</li>
+      <li>Power BI dashboards</li>
+      <li>Python data science notebooks</li>
+      <li>Machine learning practice projects</li>
+      <li>Cloud and AI learning projects</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>📫 Connect With Me</h2>
+    <p>LinkedIn: <a href="#">Add your LinkedIn URL here</a></p>
+    <p>GitHub: <a href="#">Add your GitHub URL here</a></p>
+    <p>Email: <a href="mailto:your.email@example.com">Add your professional email here</a></p>
+  </section>
+
+  <footer>
+    <p>Thanks for visiting my portfolio!</p>
+  </footer>
+
+</body>
+</html>
