@@ -88,9 +88,9 @@ I enjoy turning complex data into clear, actionable insights and helping teams m
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL here]
-- GitHub: [Add your GitHub URL here]
-- Email: [Add your professional email here]
+- LinkedIn: https://www.linkedin.com/in/saeeda-younus/
+- GitHub: https://github.com/s-younus
+- Email: saeedaomer@yahoo.com
 
 ---
 
